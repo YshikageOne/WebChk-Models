@@ -1,0 +1,75 @@
+{
+  "num_transactions": 5767,
+  "min_support": 0.01,
+  "num_frequent_itemsets": 1048,
+  "top_10_itemsets": [
+    {
+      "itemset": [
+        "."
+      ],
+      "support": 0.3785330327726721
+    },
+    {
+      "itemset": [
+        "("
+      ],
+      "support": 0.2651291832842032
+    },
+    {
+      "itemset": [
+        "/"
+      ],
+      "support": 0.26200797641754814
+    },
+    {
+      "itemset": [
+        ":"
+      ],
+      "support": 0.25368475810646784
+    },
+    {
+      "itemset": [
+        ")"
+      ],
+      "support": 0.21571007456216404
+    },
+    {
+      "itemset": [
+        ")",
+        "("
+      ],
+      "support": 0.20825385815848796
+    },
+    {
+      "itemset": [
+        "-"
+      ],
+      "support": 0.19091382001040402
+    },
+    {
+      "itemset": [
+        ".",
+        "/"
+      ],
+      "support": 0.1629963585919889
+    },
+    {
+      "itemset": [
+        ":",
+        "/"
+      ],
+      "support": 0.14773712502167505
+    },
+    {
+      "itemset": [
+        ":",
+        "."
+      ],
+      "support": 0.14080110976244148
+    }
+  ],
+  "token_statistics": {
+    "unique_tokens": 798,
+    "avg_tokens_per_transaction": 11.104560430032945
+  }
+}
